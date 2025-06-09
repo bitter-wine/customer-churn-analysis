@@ -1,9 +1,10 @@
-project/
-├─ data/                # 原始数据与输出数据
-├─ src/                 # 代码模块
-│  ├─ data_preprocessing.py
-│  ├─ data_analysis.py
-│  └─ model_training.py
-├─ main.py              # 主运行脚本
-├─ requirements.txt     # 环境依赖
-└─ README.md            # 项目说明
+# 客户流失分析系统
+
+## 环境配置
+1. 安装依赖：`pip install -r requirements.txt`
+
+## 数据准备
+1. 将原始数据保存为 `data/cleaned_source.csv`
+## 代码运行
+1. 代码文件：`最终.py`
+2. 运行方式：`python 最终.py`
